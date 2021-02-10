@@ -34,10 +34,11 @@ public class LevelGenerator : MonoBehaviour {
     }
 
     private void Update() {
-        //if (Vector3.Distance(player.GetPosition(), lastEndPosition) < PLAYER_DISTANCE_SPAWN_LEVEL_PART) {
-        //    // Spawn another level part
-        //    SpawnLevelPart();
-        //}
+        if (Vector3.Distance(player.GetPosition(), lastEndPosition) < PLAYER_DISTANCE_SPAWN_LEVEL_PART)
+        {
+            // Spawn another level part
+            SpawnLevelPart();
+        }
     }
 
     private void SpawnLevelPart() {

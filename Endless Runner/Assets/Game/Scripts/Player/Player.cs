@@ -11,7 +11,10 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        GetPosition();
+
         if (Input.GetKeyDown(KeyCode.Space) && ground.isGrounded == true)
+
         {
             rb.AddForce(new Vector2(0f, 10f), ForceMode2D.Impulse);
         }
@@ -31,4 +34,5 @@ public class Player : MonoBehaviour
         //    // freeze position
         //}
     }
+    public Vector3 GetPosition() => transform.position;
 }
