@@ -42,6 +42,5 @@ public class BackgroundInfo
     public GameObject backgroundSprite;
     public GameObject player;
     public float parallaxEffect;
-    internal float spacing;
     public float spacingLayer;
 }
