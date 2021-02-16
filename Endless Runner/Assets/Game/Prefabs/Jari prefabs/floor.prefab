@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 246896523418000247}
   - component: {fileID: 246896523418000246}
   - component: {fileID: 8718750984334404054}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: floor
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -209,7 +209,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 678040066920915323}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EndPosition
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
