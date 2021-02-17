@@ -18,7 +18,10 @@ public class Options : MonoBehaviour
                 SceneLoader.Instance.clickSound.Play();
 
                 inOptions = false;
-                pauseGame.GoPause();
+                if (pauseGame != null)
+                {
+                    pauseGame.GoPause();
+                }
                 optionsUI.SetActive(false);
             }
         }
