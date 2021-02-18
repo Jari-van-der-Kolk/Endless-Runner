@@ -13,7 +13,7 @@ public class BackGroundScroller : MonoBehaviour
         {
             s.renderer = s.backgroundSprite.GetComponent<SpriteRenderer>();
 
-            s.player = GameObject.FindGameObjectWithTag("Player");
+            s.camera = Camera.main.gameObject;
             s.startPos = s.backgroundSprite.transform.position.x;
             s.length = s.renderer.bounds.size.x;
         }
@@ -22,8 +22,8 @@ public class BackGroundScroller : MonoBehaviour
     {
         foreach (BackgroundInfo s in BackgroundInformations)
         {
-            float temp = (s.player.transform.position.x * (1 - s.parallaxEffect));
-            float dist = (s.player.transform.position.x * s.parallaxEffect);
+            float temp = (s.camera.transform.position.x * (1 - s.parallaxEffect));
+            float dist = (s.camera.transform.position.x * s.parallaxEffect);
 
                 s.backgroundSprite.transform.position = new Vector3(s.startPos + dist, s.backgroundSprite.transform.position.y, s.backgroundSprite.transform.position.z);
 
@@ -40,7 +40,7 @@ public class BackgroundInfo
     internal float length, startPos;
     internal SpriteRenderer renderer;
     public GameObject backgroundSprite;
-    public GameObject player;
+    public GameObject camera;
     public float parallaxEffect;
     public float spacingLayer;
 }

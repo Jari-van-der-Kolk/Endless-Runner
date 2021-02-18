@@ -1,14 +1,10 @@
 ﻿/* 
     ------------------- Code Monkey -------------------
-
-    Thank you for downloading this package
-    I hope you find it useful in your projects
-    If you have any questions let me know
-    Cheers!
-
-               unitycodemonkey.com
+                    unitycodemonkey.com
     --------------------------------------------------
  */
+
+// with some personal changes ofcourse 
 
 using System.Collections;
 using System.Collections.Generic;
@@ -21,11 +17,13 @@ public class LevelGenerator : MonoBehaviour {
     [SerializeField] private Transform levelPart_Start;
     [SerializeField] private List<Transform> levelPartList;
     [SerializeField] private Player player;
+    private GameObject foo;
 
     private Vector3 lastEndPosition;
 
     private void Awake() {
         lastEndPosition = levelPart_Start.Find("EndPosition").position;
+        foo = new GameObject("level"); 
 
         int startingSpawnLevelParts = 5;
         for (int i = 0; i < startingSpawnLevelParts; i++) {
