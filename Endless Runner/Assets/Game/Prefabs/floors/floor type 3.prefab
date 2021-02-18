@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 4920844194513031412}
   - component: {fileID: 4920844194513031403}
   - component: {fileID: 1319373340790021243}
+  - component: {fileID: -2039592298918698810}
   m_Layer: 6
   m_Name: floor type 3
   m_TagString: Ground
@@ -368,3 +369,18 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
+--- !u!114 &-2039592298918698810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4920844194513031402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7581f1468ed3ce47819f51fc391a582, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnIndex: 50
+  spawnChance: {fileID: 11400000, guid: fed0e836ef9affe40a61e474ef95e20a, type: 2}
+  placebels: []
