@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 16bca7ad3ee44104da0b0982ca8471eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6730394290725499505
+    second: flipped_full_sprite_sheet_character pickles (1)_0
+  - first:
+      213: -2167548165984180509
+    second: flipped_full_sprite_sheet_character pickles (1)_1
+  - first:
+      213: -7718155390935626998
+    second: flipped_full_sprite_sheet_character pickles (1)_2
+  - first:
+      213: -1377120630084635137
+    second: flipped_full_sprite_sheet_character pickles (1)_3
+  - first:
+      213: -8085013761634958305
+    second: flipped_full_sprite_sheet_character pickles (1)_4
+  - first:
+      213: 4883138759904182327
+    second: flipped_full_sprite_sheet_character pickles (1)_5
+  - first:
+      213: 2419396898510948897
+    second: flipped_full_sprite_sheet_character pickles (1)_6
+  - first:
+      213: 7620039158589079508
+    second: flipped_full_sprite_sheet_character pickles (1)_7
+  - first:
+      213: -1950938707782080990
+    second: flipped_full_sprite_sheet_character pickles (1)_8
+  - first:
+      213: 5822730823559859890
+    second: flipped_full_sprite_sheet_character pickles (1)_9
+  - first:
+      213: 3381837780211714010
+    second: flipped_full_sprite_sheet_character pickles (1)_10
+  - first:
+      213: 4960019332086399538
+    second: flipped_full_sprite_sheet_character pickles (1)_11
+  - first:
+      213: -2669622069084211033
+    second: flipped_full_sprite_sheet_character pickles (1)_12
+  - first:
+      213: -311778305377866623
+    second: flipped_full_sprite_sheet_character pickles (1)_13
+  - first:
+      213: -5494521722163705112
+    second: flipped_full_sprite_sheet_character pickles (1)_14
+  - first:
+      213: -4138758786250482121
+    second: flipped_full_sprite_sheet_character pickles (1)_15
+  - first:
+      213: 1425107925208629505
+    second: flipped_full_sprite_sheet_character pickles (1)_16
+  - first:
+      213: 7839753546383300958
+    second: flipped_full_sprite_sheet_character pickles (1)_17
+  - first:
+      213: 3869741468560078869
+    second: flipped_full_sprite_sheet_character pickles (1)_18
+  - first:
+      213: 5811333823851196711
+    second: flipped_full_sprite_sheet_character pickles (1)_19
+  - first:
+      213: 6753538325692132964
+    second: flipped_full_sprite_sheet_character pickles (1)_20
+  - first:
+      213: 246524325265069450
+    second: flipped_full_sprite_sheet_character pickles (1)_21
+  - first:
+      213: -3153494906831088110
+    second: flipped_full_sprite_sheet_character pickles (1)_22
+  - first:
+      213: 9113973413281923840
+    second: flipped_full_sprite_sheet_character pickles (1)_23
+  - first:
+      213: 4380142309361524646
+    second: flipped_full_sprite_sheet_character pickles (1)_24
+  - first:
+      213: -8144070004988973315
+    second: flipped_full_sprite_sheet_character pickles (1)_25
+  - first:
+      213: 5540244428104764238
+    second: flipped_full_sprite_sheet_character pickles (1)_26
+  - first:
+      213: -3040095285115601107
+    second: flipped_full_sprite_sheet_character pickles (1)_27
+  - first:
+      213: -2079862307588535107
+    second: flipped_full_sprite_sheet_character pickles (1)_28
+  - first:
+      213: -7313191747045275812
+    second: flipped_full_sprite_sheet_character pickles (1)_29
+  - first:
+      213: -4680343112500716017
+    second: flipped_full_sprite_sheet_character pickles (1)_30
+  - first:
+      213: 3654307474370113450
+    second: flipped_full_sprite_sheet_character pickles (1)_31
+  - first:
+      213: 5004794760312103468
+    second: flipped_full_sprite_sheet_character pickles (1)_32
+  - first:
+      213: 243419792238132800
+    second: flipped_full_sprite_sheet_character pickles (1)_33
+  - first:
+      213: 3697767810410823056
+    second: flipped_full_sprite_sheet_character pickles (1)_34
+  - first:
+      213: -5429225267998267863
+    second: flipped_full_sprite_sheet_character pickles (1)_35
+  - first:
+      213: -215922728400027983
+    second: flipped_full_sprite_sheet_character pickles (1)_36
+  - first:
+      213: -5290807600017402808
+    second: flipped_full_sprite_sheet_character pickles (1)_37
+  - first:
+      213: 335374519133594701
+    second: flipped_full_sprite_sheet_character pickles (1)_38
+  - first:
+      213: -3116368166314233955
+    second: flipped_full_sprite_sheet_character pickles (1)_39
+  - first:
+      213: 3713084006604436431
+    second: flipped_full_sprite_sheet_character pickles (1)_40
+  - first:
+      213: 7032392650951955667
+    second: flipped_full_sprite_sheet_character pickles (1)_41
+  - first:
+      213: 1993206311745023369
+    second: flipped_full_sprite_sheet_character pickles (1)_42
+  - first:
+      213: -323850634563978927
+    second: flipped_full_sprite_sheet_character pickles (1)_43
+  - first:
+      213: -6864437647291057636
+    second: flipped_full_sprite_sheet_character pickles (1)_44
+  - first:
+      213: -7773333339165368885
+    second: flipped_full_sprite_sheet_character pickles (1)_45
+  - first:
+      213: -8466325189991887314
+    second: flipped_full_sprite_sheet_character pickles (1)_46
+  - first:
+      213: -7160707330040027083
+    second: flipped_full_sprite_sheet_character pickles (1)_47
+  - first:
+      213: -3843522619919733351
+    second: flipped_full_sprite_sheet_character pickles (1)_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 7822
+        width: 1081
+        height: 1312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d4dfe3d06d892a0800000000000000
+      internalID: -6730394290725499505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_1
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 7852
+        width: 1105
+        height: 1305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a6fc5d625be1e0800000000000000
+      internalID: -2167548165984180509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_2
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 7837
+        width: 1113
+        height: 1297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0402809a93e490800000000000000
+      internalID: -7718155390935626998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_3
+      rect:
+        serializedVersion: 2
+        x: 5731
+        y: 7852
+        width: 1122
+        height: 1287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff571fe451c73ece0800000000000000
+      internalID: -1377120630084635137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_4
+      rect:
+        serializedVersion: 2
+        x: 6899
+        y: 7847
+        width: 1106
+        height: 1297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148a9de1d24ccf80800000000000000
+      internalID: -8085013761634958305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_5
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 7852
+        width: 1112
+        height: 1302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c70584d464c340800000000000000
+      internalID: 4883138759904182327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_6
+      rect:
+        serializedVersion: 2
+        x: 9152
+        y: 8632
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4d6229ac639120800000000000000
+      internalID: 2419396898510948897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_7
+      rect:
+        serializedVersion: 2
+        x: 9207
+        y: 7847
+        width: 1094
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb446fd31dfb960800000000000000
+      internalID: 7620039158589079508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 8612
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e610f49fdce4e0800000000000000
+      internalID: -1950938707782080990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_9
+      rect:
+        serializedVersion: 2
+        x: 7995
+        y: 8609
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bec00975de7ec050800000000000000
+      internalID: 5822730823559859890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 8586
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7c3891b83beee20800000000000000
+      internalID: 3381837780211714010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5313
+        width: 1149
+        height: 3248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328410ad4785d440800000000000000
+      internalID: 4960019332086399538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_12
+      rect:
+        serializedVersion: 2
+        x: 7834
+        y: 7455
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a831b75fd893fad0800000000000000
+      internalID: -2669622069084211033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_13
+      rect:
+        serializedVersion: 2
+        x: 8075
+        y: 7305
+        width: 136
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c674b78475cabf0800000000000000
+      internalID: -311778305377866623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_14
+      rect:
+        serializedVersion: 2
+        x: 8302
+        y: 7319
+        width: 151
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac3cbda998fb3b0800000000000000
+      internalID: -5494521722163705112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_15
+      rect:
+        serializedVersion: 2
+        x: 8493
+        y: 7133
+        width: 759
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e538edfcc2096c0800000000000000
+      internalID: -4138758786250482121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_16
+      rect:
+        serializedVersion: 2
+        x: 9282
+        y: 6540
+        width: 926
+        height: 1307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10187a08b1007c310800000000000000
+      internalID: 1425107925208629505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_17
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 7359
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5919ca40566ccc60800000000000000
+      internalID: 7839753546383300958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_18
+      rect:
+        serializedVersion: 2
+        x: 7844
+        y: 7400
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5183f16ec5514b530800000000000000
+      internalID: 3869741468560078869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_19
+      rect:
+        serializedVersion: 2
+        x: 7809
+        y: 7269
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721fcd1b25106a050800000000000000
+      internalID: 5811333823851196711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 6273
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eaddf435369bd50800000000000000
+      internalID: 6753538325692132964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 5313
+        width: 1005
+        height: 1306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85dae35194db6300800000000000000
+      internalID: 246524325265069450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 5283
+        width: 789
+        height: 1292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216545517198c34d0800000000000000
+      internalID: -3153494906831088110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_23
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 5328
+        width: 951
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003060f08865b7e70800000000000000
+      internalID: 9113973413281923840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_24
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 5328
+        width: 928
+        height: 1222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af172f293469cc30800000000000000
+      internalID: 4380142309361524646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_25
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 5288
+        width: 754
+        height: 1342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee7b6ca737afe80800000000000000
+      internalID: -8144070004988973315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_26
+      rect:
+        serializedVersion: 2
+        x: 6189
+        y: 5288
+        width: 744
+        height: 1337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b850234f6e2ec40800000000000000
+      internalID: 5540244428104764238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_27
+      rect:
+        serializedVersion: 2
+        x: 6924
+        y: 5288
+        width: 1081
+        height: 1312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f385ff1796fc5d0800000000000000
+      internalID: -3040095285115601107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_28
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 5288
+        width: 1162
+        height: 1287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc06763048d223e0800000000000000
+      internalID: -2079862307588535107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_29
+      rect:
+        serializedVersion: 2
+        x: 9081
+        y: 5278
+        width: 1220
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574c0f5ad2528a90800000000000000
+      internalID: -7313191747045275812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_30
+      rect:
+        serializedVersion: 2
+        x: 6169
+        y: 5735
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed2789cb41c0fb0800000000000000
+      internalID: -4680343112500716017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_31
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 5625
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa2ed5945b6b230800000000000000
+      internalID: 3654307474370113450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3970
+        width: 1149
+        height: 1271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a326615a947540800000000000000
+      internalID: 5004794760312103468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3970
+        width: 729
+        height: 1307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e37a7e20dc06300800000000000000
+      internalID: 243419792238132800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_34
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 4282
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d39616b3c115330800000000000000
+      internalID: 3697767810410823056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_35
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3940
+        width: 789
+        height: 1297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926636f426487a4b0800000000000000
+      internalID: -5429225267998267863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_36
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 3946
+        width: 951
+        height: 1311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be78ca2c63e00df0800000000000000
+      internalID: -215922728400027983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_37
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 3990
+        width: 928
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844960a05864396b0800000000000000
+      internalID: -5290807600017402808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_38
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 3945
+        width: 754
+        height: 1342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44eca7295d77a400800000000000000
+      internalID: 335374519133594701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_39
+      rect:
+        serializedVersion: 2
+        x: 6256
+        y: 3945
+        width: 677
+        height: 1337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2189f9af60c4d0800000000000000
+      internalID: -3116368166314233955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_40
+      rect:
+        serializedVersion: 2
+        x: 7245
+        y: 3945
+        width: 760
+        height: 1312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc377d23b36878330800000000000000
+      internalID: 3713084006604436431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_41
+      rect:
+        serializedVersion: 2
+        x: 8312
+        y: 3945
+        width: 825
+        height: 1287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41f095bd3189160800000000000000
+      internalID: 7032392650951955667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_42
+      rect:
+        serializedVersion: 2
+        x: 9434
+        y: 3935
+        width: 867
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98de0af749a49ab10800000000000000
+      internalID: 1993206311745023369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_43
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 2477
+        width: 916
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159778e4093718bf0800000000000000
+      internalID: -323850634563978927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_44
+      rect:
+        serializedVersion: 2
+        x: 10243
+        y: 2899
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af562445e9cb0a0800000000000000
+      internalID: -6864437647291057636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_45
+      rect:
+        serializedVersion: 2
+        x: 10198
+        y: 2507
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd85e43829f1490800000000000000
+      internalID: -7773333339165368885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_46
+      rect:
+        serializedVersion: 2
+        x: 9066
+        y: 1959
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8791a812918a80800000000000000
+      internalID: -8466325189991887314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_47
+      rect:
+        serializedVersion: 2
+        x: 9188
+        y: 989
+        width: 995
+        height: 1306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ad645f9e00ac90800000000000000
+      internalID: -7160707330040027083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped_full_sprite_sheet_character pickles (1)_48
+      rect:
+        serializedVersion: 2
+        x: 9403
+        y: 0
+        width: 750
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d61818a8019aac0800000000000000
+      internalID: -3843522619919733351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5feaeff77aab6d74fa6751e10af9fec1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
