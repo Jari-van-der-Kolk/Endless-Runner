@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     [Header("References")]
     public Rigidbody2D rb;
     public Grounded ground;
+    public Animator animator;
 
     void Update()
     {
@@ -23,6 +24,8 @@ public class Player : MonoBehaviour
     void FixedUpdate()
     {
         float inputX = Input.GetAxisRaw("Horizontal");
+
+        animator.SetFloat("Horizontal", inputX);
 
         Vector2 movement = new Vector2(inputX * speed, -3);
         movement *= Time.fixedDeltaTime;
