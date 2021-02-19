@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class ScoreManager : MonoBehaviour
 {
@@ -21,18 +22,21 @@ public class ScoreManager : MonoBehaviour
     #endregion
 
     public int score { get; private set; }
+    [SerializeField] private TextMeshProUGUI text;
     public int ShowScore;
     public static ScoreManager Instance { get => instance; set => instance = value; }
 
     public void UpdateScore(int AddScore)
     {
         score += AddScore;
+        text.text = string.Format(score.ToString());
         ShowScore = score;
     }
 
 
     private void Start()
     {
+        UpdateScore(0);
         StartCoroutine(ScoreAdderOverTime(1, 0.1f));    
     }
 
