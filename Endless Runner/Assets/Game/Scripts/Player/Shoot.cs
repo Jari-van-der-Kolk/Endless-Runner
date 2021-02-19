@@ -32,7 +32,6 @@ public class Shoot : MonoBehaviour
 
         if (hitInfo)
         {
-            print(hitInfo.collider.name);
             if (hitInfo.collider.gameObject.CompareTag("Enemy"))
             {
                 hitInfo.collider.GetComponent<Health>().ModifyHealth(25);

@@ -2132,7 +2132,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1174050603}
-  - component: {fileID: 1174050601}
   - component: {fileID: 1174050604}
   - component: {fileID: 1174050605}
   - component: {fileID: 1174050606}
@@ -2145,32 +2144,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!61 &1174050601
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1174050600}
-  m_Enabled: 0
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.0058235526, y: -0.41349185}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.1223005, y: 2.5025496}
-  m_EdgeRadius: 0
 --- !u!4 &1174050603
 Transform:
   m_ObjectHideFlags: 0
@@ -2229,7 +2202,7 @@ MonoBehaviour:
   audioSource: {fileID: 1174050607}
   layerMask:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 192
 --- !u!82 &1174050607
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3676,7 +3649,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1653708334}
   - component: {fileID: 1653708339}
-  - component: {fileID: 1653708338}
   - component: {fileID: 1653708336}
   - component: {fileID: 1653708335}
   m_Layer: 7
@@ -3814,32 +3786,9 @@ MonoBehaviour:
   lineRenderer: {fileID: 814355245}
   audioSource: {fileID: 1653708335}
   mainPlayer: {fileID: 1602359342}
---- !u!61 &1653708338
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1653708333}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.0058235526, y: -0.41349185}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.1223005, y: 2.5025496}
-  m_EdgeRadius: 0
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 320
 --- !u!212 &1653708339
 SpriteRenderer:
   m_ObjectHideFlags: 0
