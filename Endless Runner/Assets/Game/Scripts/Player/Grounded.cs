@@ -7,7 +7,7 @@ public class Grounded : MonoBehaviour
 
     private void Update()
     {
-        if (Physics2D.Raycast(transform.position, Vector2.down * 2, 0.01f, whatIsGround))
+        if (Physics2D.Raycast(transform.position, Vector2.right, 1f, whatIsGround))
         {
             isGrounded = true;
         }
@@ -16,5 +16,9 @@ public class Grounded : MonoBehaviour
             isGrounded = false;
         }
        
+    }
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawLine(transform.position, transform.position + Vector3.right);
     }
 }
