@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class OutOffBounds : MonoBehaviour
 {
+    public int sceneIndex;
     public GameObject player;
     public float distance;
     public float outOfBoundsDistance;
@@ -17,7 +19,7 @@ public class OutOffBounds : MonoBehaviour
         distance = (transform.position - player.transform.position).magnitude;
         if (distance >= outOfBoundsDistance)
         {
-            Debug.Log("Game over");
+            SceneManager.LoadScene(sceneIndex);
         }
     }
 

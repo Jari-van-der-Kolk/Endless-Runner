@@ -1,4 +1,4 @@
-using UnityEngine;
+using UnityEngine;        using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -10,6 +10,13 @@ public class Player : MonoBehaviour
     public Grounded ground;
     public Animator animator;
 
+    Health health;
+
+
+    private void Start()
+    {
+        health = GetComponent<Health>();
+    }
     void Update()
     {
         GetPosition();
@@ -18,6 +25,10 @@ public class Player : MonoBehaviour
 
         {
             rb.AddForce(new Vector2(0f, 10f), ForceMode2D.Impulse);
+        }
+        if (health.currentHealth <= 0)
+        {
+            SceneManager.LoadScene(2);
         }
     }
 
@@ -38,4 +49,5 @@ public class Player : MonoBehaviour
         //}
     }
     public Vector3 GetPosition() => transform.position;
+
 }

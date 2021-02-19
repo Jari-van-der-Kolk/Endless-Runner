@@ -15,15 +15,22 @@ public class EnemyShoot : MonoBehaviour
     private float timer;
     private float fireRate = 3f;
 
+    private void Start()
+    {
+        mainPlayer = GameObject.FindGameObjectWithTag("Player");
+    }
+
     void Update()
     {
+        float dist = (mainPlayer.transform.position - transform.position).magnitude;
+
         if (Time.timeScale == 0) return;
 
         Aim();
 
         timer += Time.deltaTime;
 
-        if (timer >= fireRate)
+        if (timer >= fireRate && dist < 10)
         {
             StartCoroutine(Shot());
 
@@ -66,6 +73,10 @@ public class EnemyShoot : MonoBehaviour
         yield return new WaitForSeconds(0.02f);
 
         lineRenderer.enabled = false;
+    }
+    private void OnDisable()
+    {
+        ScoreManager.Instance.UpdateScore(100);
     }
 }
 

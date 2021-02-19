@@ -13,6 +13,7 @@ public class AddScore : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            AudioScourcer.instance.Play("coin");
             gameObject.SetActive(false);
         }
     }

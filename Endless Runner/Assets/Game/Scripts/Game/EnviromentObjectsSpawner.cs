@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class EnviromentObjectsSpawner : MonoBehaviour
 {
-    public float spawnIndex;
     public FloatVariable spawnChance;
     public Placebels[] placebels;
 
@@ -13,7 +12,7 @@ public class EnviromentObjectsSpawner : MonoBehaviour
         foreach (Placebels p in placebels)
         {
             int randomNumber = Random.Range(0,Mathf.RoundToInt(spawnChance.Value));
-            if (randomNumber <= spawnIndex)
+            if (randomNumber <= p.spawnIndex)
             {
                 Instantiate(ReturnGameobjectFromArray(p.Objects), p.Location.transform.position, Quaternion.identity);
             }
@@ -26,7 +25,7 @@ public class EnviromentObjectsSpawner : MonoBehaviour
 [System.Serializable]
 public class Placebels
 {
-    public string name;
+    public float spawnIndex;
     public Transform Location;
     public GameObject[] Objects;
 
