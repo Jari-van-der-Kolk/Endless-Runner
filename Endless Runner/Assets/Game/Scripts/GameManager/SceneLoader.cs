@@ -23,6 +23,7 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadScene(int value)
     {
+        Time.timeScale = 1;
         StartCoroutine(LoadSceneIE(value));
     }
 

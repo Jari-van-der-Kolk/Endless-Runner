@@ -8,6 +8,7 @@ public class Shoot : MonoBehaviour
     public Transform firePoint;
     public LineRenderer lineRenderer;
     public AudioSource audioSource;
+    public LayerMask layerMask;
 
     private bool canFire = true;
 
@@ -27,10 +28,16 @@ public class Shoot : MonoBehaviour
 
         audioSource.Play();
 
-        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, firePoint.right);
+        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, firePoint.right, Mathf.Infinity, layerMask);
 
         if (hitInfo)
         {
+            print(hitInfo.collider.name);
+            if (hitInfo.collider.gameObject.CompareTag("Enemy"))
+            {
+                hitInfo.collider.GetComponent<Health>().ModifyHealth(25);
+            }
+
             lineRenderer.SetPosition(0, firePoint.position);
             lineRenderer.SetPosition(1, hitInfo.point);
         }

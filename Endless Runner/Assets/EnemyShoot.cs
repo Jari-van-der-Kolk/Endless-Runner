@@ -9,6 +9,8 @@ public class EnemyShoot : MonoBehaviour
     public LineRenderer lineRenderer;
     public AudioSource audioSource;
     public GameObject mainPlayer;
+    public LayerMask layerMask;
+
 
     private float timer;
     private float fireRate = 3f;
@@ -41,10 +43,15 @@ public class EnemyShoot : MonoBehaviour
     {
         audioSource.Play();
 
-        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, firePoint.right);
+        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, firePoint.right, Mathf.Infinity, layerMask);
 
         if (hitInfo)
         {
+            if (hitInfo.collider.gameObject.CompareTag("Player"))
+            {
+                hitInfo.collider.GetComponent<Health>().ModifyHealth(25);
+            }
+
             lineRenderer.SetPosition(0, firePoint.position);
             lineRenderer.SetPosition(1, hitInfo.point);
         }
