@@ -22,7 +22,6 @@ public class Player : MonoBehaviour
         GetPosition();
 
         if (Input.GetKeyDown(KeyCode.Space) && ground.isGrounded == true)
-
         {
             rb.AddForce(new Vector2(0f, 10f), ForceMode2D.Impulse);
         }
@@ -42,12 +41,7 @@ public class Player : MonoBehaviour
         movement *= Time.fixedDeltaTime;
 
         transform.Translate(movement);
-
-        //if (inputX == 0 && ground.isGrounded == true)
-        //{
-        //    // freeze position
-        //}
     }
-    public Vector3 GetPosition() => transform.position;
 
+    public Vector3 GetPosition() => transform.position;
 }
